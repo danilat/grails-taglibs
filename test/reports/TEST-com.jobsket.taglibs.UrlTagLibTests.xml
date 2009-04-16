@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="vodkalimon.local" name="com.jobsket.taglibs.UrlTagLibTests" tests="2" time="0.122" timestamp="2009-04-16T02:46:47">
+  <properties />
+  <testcase classname="com.jobsket.taglibs.UrlTagLibTests" name="testLinkConfirmWithConfirmationMessage" time="0.095" />
+  <testcase classname="com.jobsket.taglibs.UrlTagLibTests" name="testLinkConfirmWithoutConfirmationMessage" time="0.0070" />
+  <system-out><![CDATA[--Output from testLinkConfirmWithConfirmationMessage--
+--Output from testLinkConfirmWithoutConfirmationMessage--
+]]></system-out>
+  <system-err><![CDATA[--Output from testLinkConfirmWithConfirmationMessage--
+--Output from testLinkConfirmWithoutConfirmationMessage--
+]]></system-err>
+</testsuite>

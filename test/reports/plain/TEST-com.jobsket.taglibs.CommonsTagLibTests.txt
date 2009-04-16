@@ -1,0 +1,13 @@
+Testsuite: com.jobsket.taglibs.CommonsTagLibTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,216 sec
+------------- Standard Output ---------------
+--Output from testCurrentLang--
+--Output from testCurrentCountry--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testCurrentLang--
+--Output from testCurrentCountry--
+------------- ---------------- ---------------
+
+Testcase: testCurrentLang took 0,113 sec
+Testcase: testCurrentCountry took 0,001 sec

@@ -1,0 +1,13 @@
+Testsuite: com.jobsket.taglibs.UrlTagLibTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,122 sec
+------------- Standard Output ---------------
+--Output from testLinkConfirmWithConfirmationMessage--
+--Output from testLinkConfirmWithoutConfirmationMessage--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testLinkConfirmWithConfirmationMessage--
+--Output from testLinkConfirmWithoutConfirmationMessage--
+------------- ---------------- ---------------
+
+Testcase: testLinkConfirmWithConfirmationMessage took 0,095 sec
+Testcase: testLinkConfirmWithoutConfirmationMessage took 0,007 sec

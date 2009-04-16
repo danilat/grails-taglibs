@@ -1,0 +1,2 @@
+--Output from testCurrentLang--
+--Output from testCurrentCountry--

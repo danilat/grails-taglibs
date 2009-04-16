@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="vodkalimon.local" id="0" name="CommonsTagLibTests" package="com.jobsket.taglibs" tests="2" time="0.216" timestamp="2009-04-16T02:46:46">
+      <properties />
+
+      <testcase classname="com.jobsket.taglibs.CommonsTagLibTests" name="testCurrentLang" time="0.112" />
+
+      <testcase classname="com.jobsket.taglibs.CommonsTagLibTests" name="testCurrentCountry" time="0.0010" />
+
+      <system-out><![CDATA[--Output from testCurrentLang--
+--Output from testCurrentCountry--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testCurrentLang--
+--Output from testCurrentCountry--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="vodkalimon.local" id="1" name="UrlTagLibTests" package="com.jobsket.taglibs" tests="2" time="0.122" timestamp="2009-04-16T02:46:47">
+      <properties />
+
+      <testcase classname="com.jobsket.taglibs.UrlTagLibTests" name="testLinkConfirmWithConfirmationMessage" time="0.095" />
+
+      <testcase classname="com.jobsket.taglibs.UrlTagLibTests" name="testLinkConfirmWithoutConfirmationMessage" time="0.0070" />
+
+      <system-out><![CDATA[--Output from testLinkConfirmWithConfirmationMessage--
+--Output from testLinkConfirmWithoutConfirmationMessage--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testLinkConfirmWithConfirmationMessage--
+--Output from testLinkConfirmWithoutConfirmationMessage--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

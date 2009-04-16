@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="vodkalimon.local" name="com.jobsket.taglibs.CommonsTagLibTests" tests="2" time="0.216" timestamp="2009-04-16T02:46:46">
+  <properties />
+  <testcase classname="com.jobsket.taglibs.CommonsTagLibTests" name="testCurrentLang" time="0.112" />
+  <testcase classname="com.jobsket.taglibs.CommonsTagLibTests" name="testCurrentCountry" time="0.0010" />
+  <system-out><![CDATA[--Output from testCurrentLang--
+--Output from testCurrentCountry--
+]]></system-out>
+  <system-err><![CDATA[--Output from testCurrentLang--
+--Output from testCurrentCountry--
+]]></system-err>
+</testsuite>
