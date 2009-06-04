@@ -7,19 +7,17 @@ class UrlTagLib {
 		if(confirm!=null){
 			attrs.put("onclick", "if(confirm('${confirm}')){location.href='${link}'};return false")
 		}
-		def writer = out
-	    writer << '<a href="'
-	    writer << link
-	    writer << '"'
+	    out << '<a href="'
+	    out << link
+	    out << '"'
 	    // process remaining attributes
 	    attrs.each { k,v ->
-	        writer << " $k=\"$v\""
+	    	out << " $k=\"$v\""
 	    }
-	    writer << '>'
+	    out << '>'
 	    // output the body
-	    writer << body()
+	    out << body()
 	    // close tag
-	    writer << '</a>'
-	
+	    out << '</a>'
 	}
 }

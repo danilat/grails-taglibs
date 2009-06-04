@@ -1,2 +1,0 @@
---Output from testLinkConfirmWithConfirmationMessage--
---Output from testLinkConfirmWithoutConfirmationMessage--
