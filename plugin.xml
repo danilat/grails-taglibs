@@ -1,0 +1,15 @@
+<plugin name='grails-taglibs' version='0.1' grailsVersion='1.1 &gt; *'>
+  <author>danilat</author>
+  <authorEmail>dani@jobsket.com</authorEmail>
+  <title>Grails taglibs plugin</title>
+  <description>Brief description of the plugin.
+</description>
+  <documentation>http://grails.org/GrailsTaglibs+Plugin</documentation>
+  <resources>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+    <resource>com.jobsket.taglibs.CommonsTagLib</resource>
+    <resource>com.jobsket.taglibs.UrlTagLib</resource>
+  </resources>
+  <dependencies />
+</plugin>
