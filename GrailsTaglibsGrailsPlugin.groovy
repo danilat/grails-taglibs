@@ -7,7 +7,7 @@ class GrailsTaglibsGrailsPlugin {
     def authorEmail = "dani@jobsket.com"
     def title = "Grails taglibs plugin"
     def description = '''\
-Brief description of the plugin.
+Some common grails taglibs.
 '''
 
     // URL to the plugin's documentation

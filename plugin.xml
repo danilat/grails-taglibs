@@ -8,6 +8,7 @@
   <resources>
     <resource>DataSource</resource>
     <resource>UrlMappings</resource>
+    <resource>TestController</resource>
     <resource>com.jobsket.taglibs.CommonsTagLib</resource>
     <resource>com.jobsket.taglibs.UrlTagLib</resource>
   </resources>
