@@ -37,4 +37,11 @@ class CommonsTagLib {
 	    }
 		out << render(paramsMap)
 	}
+	
+	def currentDomain={ attrs, body ->
+		def serverName = request.getServerName()
+		def index = serverName.lastIndexOf(".")
+		if(index != -1)
+			out << serverName.substring(index+1).toLowerCase()
+	}
 }
